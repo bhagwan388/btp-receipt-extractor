@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Conda environments
+/btp_ocr/
+/sroie_ocr/
+
+# Data Files (IMPORTANT: Do not upload the dataset)
+data/raw_sroie/
+data/yolo_format/
+
+# ZIP Files
+*.zip
+
+# Model Files (IMPORTANT: Do not upload the trained model)
+results/models/best_text_detector.pt
+results/models/best_30_class.pt
+*.pt
+
+# VS Code
+.vscode/
+
+# Temp files from Streamlit
+temp/

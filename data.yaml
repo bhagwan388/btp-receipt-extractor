@@ -1,0 +1,9 @@
+train: data/yolo_format/images/train
+val: data/yolo_format/images/val
+
+# Number of classes
+nc: 1
+
+# Class names
+names:
+  0: text
