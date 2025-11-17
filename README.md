@@ -73,6 +73,8 @@ This is the main command to run the project.
 python \-m streamlit run src/web\_app/app.py
 
 This will automatically open the application in your web browser. You can then upload a receipt image (e.g., from data/raw\_sroie/SROIE2019/test/img/) to see the results.
+<img width="1408" height="759" alt="image" src="https://github.com/user-attachments/assets/94222f50-9f21-469d-9d7a-4cae8f08a85d" />
+
 
 ### **4\. (Optional) Run the Final Evaluation**
 
